@@ -1,4 +1,7 @@
 # Demo vscode extension for package to vsix
+
+Reference: [Publishing Extensions](https://code.visualstudio.com/api/working-with-extensions/publishing-extension)
+
 ```bash
 # Install dependencies
 npm install
